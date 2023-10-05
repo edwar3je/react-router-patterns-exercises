@@ -1,0 +1,12 @@
+.dog-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.dog-image {
+    height: 300px;
+    width: 300px;
+}

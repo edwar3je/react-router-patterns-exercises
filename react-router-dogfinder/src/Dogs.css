@@ -1,0 +1,22 @@
+.dog-house {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.dogs-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}

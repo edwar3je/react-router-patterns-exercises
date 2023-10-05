@@ -1,0 +1,13 @@
+.color-page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    color: #000000;
+}
